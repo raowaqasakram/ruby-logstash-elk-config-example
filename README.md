@@ -2,7 +2,7 @@
 # Ruby Logstash Config Example
 
 This repository provides an example code and configuration files for shipping logs from a Ruby application to Logstash in the ELK stack.
- [Complete Article](https://raowaqasakram.hashnode.dev/configuring-log-shipping-from-ruby-application-to-logstash-elk)
+ [Complete Article](https://raowaqasakram.hashnode.dev/shipping-ruby-application-logs-to-logstash-elk)
 
 ## Introduction
 
